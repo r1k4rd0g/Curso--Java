@@ -1,0 +1,277 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1682713594990,
+        "children": [
+          {
+            "key": 1682713634043,
+            "children": [],
+            "todo": {
+              "content": "modificacar alumno",
+              "id": 1682713634043,
+              "level": "default",
+              "done": true,
+              "start": 1682713634043,
+              "focus": false,
+              "end": 1682806399134
+            }
+          },
+          {
+            "key": 1682713625294,
+            "children": [],
+            "todo": {
+              "content": "baja alumno",
+              "id": 1682713625294,
+              "level": "default",
+              "done": true,
+              "start": 1682713625294,
+              "focus": false,
+              "end": 1682805227587
+            }
+          },
+          {
+            "key": 1682713613275,
+            "children": [],
+            "todo": {
+              "content": "alta alumno",
+              "id": 1682713613275,
+              "level": "default",
+              "done": true,
+              "start": 1682713613275,
+              "focus": false,
+              "end": 1682803109007
+            }
+          }
+        ],
+        "todo": {
+          "content": "Generar base de datos alumnos:",
+          "id": 1682713594990,
+          "level": "default",
+          "done": true,
+          "start": 1682713594990,
+          "focus": false,
+          "end": 1682806401149
+        }
+      },
+      {
+        "key": 1682713654077,
+        "children": [
+          {
+            "key": 1682713667645,
+            "children": [
+              {
+                "key": 1682713681704,
+                "children": [
+                  {
+                    "key": 1682713722251,
+                    "children": [],
+                    "todo": {
+                      "content": "Si el alumno no está entonces, se debe registrar",
+                      "id": 1682713722251,
+                      "level": "default",
+                      "done": true,
+                      "start": 1682713722251,
+                      "focus": false,
+                      "end": 1682888080641
+                    }
+                  },
+                  {
+                    "key": 1682713718861,
+                    "children": [],
+                    "todo": {
+                      "content": "Si el alumno está entonces se informa de las clases",
+                      "id": 1682713718861,
+                      "level": "default",
+                      "done": true,
+                      "start": 1682713718861,
+                      "focus": false,
+                      "end": 1682889264095
+                    }
+                  }
+                ],
+                "todo": {
+                  "content": "Generar un if y else.",
+                  "id": 1682713681704,
+                  "level": "default",
+                  "done": true,
+                  "start": 1682713681704,
+                  "focus": false,
+                  "end": 1682889265898
+                }
+              }
+            ],
+            "todo": {
+              "content": "Buscar alumno",
+              "id": 1682713667645,
+              "level": "default",
+              "done": true,
+              "start": 1682713667646,
+              "focus": false,
+              "end": 1682889267127
+            }
+          }
+        ],
+        "todo": {
+          "content": "Informar clases habilitadas",
+          "id": 1682713654077,
+          "level": "default",
+          "done": true,
+          "start": 1682713654077,
+          "focus": false,
+          "end": 1682889266526
+        }
+      },
+      {
+        "key": 1682713764706,
+        "children": [
+          {
+            "key": 1682713779862,
+            "children": [],
+            "todo": {
+              "content": "Se debería tener un prompt donde informe las clases habilitdas y consule el nº de asistencia. Otra variable?",
+              "id": 1682713779862,
+              "level": "default",
+              "done": true,
+              "start": 1682713779862,
+              "focus": false,
+              "end": 1682895653664
+            }
+          }
+        ],
+        "todo": {
+          "content": "Con las clases habilitadas, elegir la frecuencia a asistir",
+          "id": 1682713764706,
+          "level": "default",
+          "done": true,
+          "start": 1682713764706,
+          "focus": false,
+          "end": 1682895655024
+        }
+      },
+      {
+        "key": 1682713820993,
+        "children": [],
+        "todo": {
+          "content": "Con una frecuencia seleccionada (variable acumulativa o nueva? ) se calcula el importe abonar",
+          "id": 1682713820993,
+          "level": "default",
+          "done": true,
+          "start": 1682713820993,
+          "focus": false,
+          "end": 1682895659287
+        }
+      },
+      {
+        "key": 1682713862767,
+        "children": [],
+        "todo": {
+          "content": "Generar BD de quien pagará (nombre, apellido, ci)",
+          "id": 1682713862767,
+          "level": "default",
+          "done": true,
+          "start": 1682713862767,
+          "focus": false,
+          "end": 1682899268280
+        }
+      },
+      {
+        "key": 1682713885463,
+        "children": [],
+        "todo": {
+          "content": "Opciones de pago (t/bancaria - efectivo - Mercado pago)",
+          "id": 1682713885463,
+          "level": "default",
+          "done": true,
+          "start": 1682713885463,
+          "focus": false,
+          "end": 1683045538809
+        }
+      },
+      {
+        "key": 1682713911698,
+        "children": [
+          {
+            "key": 1682713947978,
+            "children": [],
+            "todo": {
+              "content": "Alumno registrado - de lo contrario se solicita registro",
+              "id": 1682713947978,
+              "level": "default",
+              "done": true,
+              "start": 1682713947978,
+              "focus": false,
+              "end": 1683052026899
+            }
+          },
+          {
+            "key": 1682713983616,
+            "children": [],
+            "todo": {
+              "content": "Responsable de pago registrado - de lo contrario se solicita registro",
+              "id": 1682713983616,
+              "level": "default",
+              "done": true,
+              "start": 1682713983616,
+              "focus": false,
+              "end": 1683052027546
+            }
+          },
+          {
+            "key": 1682714002377,
+            "children": [],
+            "todo": {
+              "content": "Opciones de pago",
+              "id": 1682714002377,
+              "level": "default",
+              "done": true,
+              "start": 1682714002377,
+              "focus": false,
+              "end": 1683052027961
+            }
+          }
+        ],
+        "todo": {
+          "content": "Compra Pase libre directo, con condiciones:",
+          "id": 1682713911698,
+          "level": "default",
+          "done": true,
+          "start": 1682713911698,
+          "focus": false,
+          "end": 1683052026236
+        }
+      },
+      {
+        "key": 1682714013395,
+        "children": [],
+        "todo": {
+          "content": "Salir",
+          "id": 1682714013395,
+          "level": "default",
+          "done": true,
+          "start": 1682714013395,
+          "focus": false,
+          "end": 1683052028701
+        }
+      }
+    ],
+    "expandKeys": [
+      1682713667645,
+      1682713681704,
+      1682713911698,
+      1682713764706,
+      1682713654077,
+      1682713594990
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "pasos",
+    "autoSort": false,
+    "showEndTime": false,
+    "lang": "en",
+    "version": "1683052028744"
+  }
+}
